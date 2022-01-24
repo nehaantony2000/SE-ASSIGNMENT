@@ -4,3 +4,8 @@ ready for merging
 
 
 merging starts here
+
+
+starting of branch2
+this text is from branch2
+end of branch2
