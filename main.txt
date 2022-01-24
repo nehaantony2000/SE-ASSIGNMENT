@@ -9,3 +9,7 @@ merging starts here
 
 Text adding from branch1
 ending of branch1
+starting of branch2
+this text is from branch2
+end of branch2
+
